@@ -63,9 +63,9 @@ The table below ranks major enterprise commercial SaaS platforms sorted by compa
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a ranked collection of top open-source tools for building self-hosted reconnaissance, subdomain enumeration, and attack surface discovery pipelines, sorted by **GitHub Star Count** (descending).
+Below is a ranked collection of top open-source tools for building self-hosted reconnaissance, subdomain enumeration, and attack surface discovery pipelines, sorted by **GitHub Stars_Count** (descending).
 
-| Project / Repository | Star Count | License | Description |
+| Project / Repository | Stars_Count | License | Description |
 | :--- | :--- | :--- | :--- |
 | **[Nmap](https://github.com/nmap/nmap)** | [![Nmap Stars](https://img.shields.io/github/stars/nmap/nmap?style=social&color=white)](https://github.com/nmap/nmap/stargazers) | NPSL | The legendary network discovery, port scanner, and host audit utility. |
 | **[Nuclei](https://github.com/projectdiscovery/nuclei)** | [![Nuclei Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) | MIT | Fast and customizable vulnerability scanner based on simple YAML templates. |

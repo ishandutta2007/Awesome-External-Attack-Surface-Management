@@ -63,7 +63,7 @@ The table below ranks major enterprise commercial SaaS platforms sorted by compa
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a ranked collection of top open-source tools for building self-hosted reconnaissance, subdomain enumeration, and attack surface discovery pipelines, sorted by **GitHub Stars_Count** (descending).
+Below is a ranked collection of top open-source tools for building self-hosted reconnaissance, subdomain enumeration, and attack surface discovery pipelines, sorted by **GitHub_Stars_Count** (descending).
 
 | Project / Repository | Stars_Count | License | Description |
 | :--- | :--- | :--- | :--- |
